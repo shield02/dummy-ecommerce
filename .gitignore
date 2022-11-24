@@ -1,0 +1,6 @@
+# Django 
+db.sqlite3
+*.log
+
+# Environment
+.venv
